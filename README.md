@@ -3,3 +3,4 @@
 It is very much like the game of Checkers, with special rules implemented. <br />
 Rules can be found [here](https://en.wikipedia.org/wiki/Alquerque).
 ## Program
+![Alt text](/demo.png?raw=true "Optional Title")
